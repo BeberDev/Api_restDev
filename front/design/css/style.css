@@ -1,0 +1,35 @@
+.btn {
+  background-color: #d2edf8;
+}
+
+.search {
+  width: 200px;
+}
+
+#background{
+background: linear-gradient(270deg, #c62210, #d5c118, #3dc809);
+background-size: 600% 600%;
+-webkit-animation: AnimationName 30s ease infinite;
+-moz-animation: AnimationName 30s ease infinite;
+-o-animation: AnimationName 30s ease infinite;
+animation: AnimationName 30s ease infinite;
+@-webkit-keyframes AnimationName {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}}
